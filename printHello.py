@@ -1,3 +1,4 @@
-import main
 
-main.print_hello()
+
+def print_something(something):
+    return something

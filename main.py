@@ -1,2 +1,3 @@
-def print_hello():
-    return "Hello"
+from printHello import print_something
+
+print(print_something('hellllooo!!!'))
