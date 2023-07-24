@@ -1,4 +1,4 @@
 
-
-def print_something(something):
+def print_something():
+    something = input()
     return something
